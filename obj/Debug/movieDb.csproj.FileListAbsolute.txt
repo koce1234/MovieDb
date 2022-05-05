@@ -1,0 +1,9 @@
+C:\Users\me\Desktop\курсова работа\obj\Debug\movieDb.csprojAssemblyReference.cache
+C:\Users\me\Desktop\курсова работа\obj\Debug\movieDb.Model.Forms.MSForm.resources
+C:\Users\me\Desktop\курсова работа\obj\Debug\movieDb.Properties.Resources.resources
+C:\Users\me\Desktop\курсова работа\obj\Debug\movieDb.csproj.GenerateResource.cache
+C:\Users\me\Desktop\курсова работа\bin\Debug\movieDb.exe.config
+C:\Users\me\Desktop\курсова работа\bin\Debug\movieDb.exe
+C:\Users\me\Desktop\курсова работа\bin\Debug\movieDb.pdb
+C:\Users\me\Desktop\курсова работа\obj\Debug\movieDb.exe
+C:\Users\me\Desktop\курсова работа\obj\Debug\movieDb.pdb
